@@ -1,0 +1,19 @@
+.main {
+  background-image: url(https://assets-global.website-files.com/6257ade…/644fab4…_8a8375a….svg),
+    url(https://assets-global.website-files.com/6257ade…/644fab4…_c40c84c….svg),
+    url(https://assets-global.website-files.com/6257ade…/644fab4…_e6d5771….svg);
+  background-position: -20% 100%, 120% 100%, 50% 100%;
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-size: 600px, 600px, auto;
+  min-height: auto;
+  background-color: #404eed;
+  padding-top: 0;
+}
+
+.subMain {
+  min-width: 1440px;
+}
+
+.Padding100Px {
+  padding-top: 180px;
+}
